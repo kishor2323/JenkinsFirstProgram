@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="KishorTesting" duration-ms="84245" started-at="2018-09-07T04:48:43Z" finished-at="2018-09-07T04:50:07Z">
+    <groups>
+    </groups>
+    <test name="Groups" duration-ms="84245" started-at="2018-09-07T04:48:43Z" finished-at="2018-09-07T04:50:07Z">
+      <class name="mavenkrishna.krishnatest.FirstMaven">
+        <test-method status="PASS" signature="third()[pri:0, instance:mavenkrishna.krishnatest.FirstMaven@3b084709]" name="third" is-config="true" duration-ms="11119" started-at="2018-09-07T04:48:43Z" finished-at="2018-09-07T04:48:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- third -->
+        <test-method status="PASS" signature="register()[pri:0, instance:mavenkrishna.krishnatest.FirstMaven@3b084709]" name="register" duration-ms="1831" started-at="2018-09-07T04:48:54Z" finished-at="2018-09-07T04:48:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:mavenkrishna.krishnatest.FirstMaven@3b084709]" name="closeapp" is-config="true" duration-ms="3209" started-at="2018-09-07T04:48:56Z" finished-at="2018-09-07T04:48:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+        <test-method status="PASS" signature="third()[pri:0, instance:mavenkrishna.krishnatest.FirstMaven@3b084709]" name="third" is-config="true" duration-ms="10595" started-at="2018-09-07T04:48:59Z" finished-at="2018-09-07T04:49:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- third -->
+        <test-method status="PASS" signature="username()[pri:0, instance:mavenkrishna.krishnatest.FirstMaven@3b084709]" name="username" duration-ms="2905" started-at="2018-09-07T04:49:10Z" finished-at="2018-09-07T04:49:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- username -->
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:mavenkrishna.krishnatest.FirstMaven@3b084709]" name="closeapp" is-config="true" duration-ms="3626" started-at="2018-09-07T04:49:12Z" finished-at="2018-09-07T04:49:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+        <test-method status="PASS" signature="third()[pri:0, instance:mavenkrishna.krishnatest.FirstMaven@3b084709]" name="third" is-config="true" duration-ms="9956" started-at="2018-09-07T04:49:16Z" finished-at="2018-09-07T04:49:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- third -->
+        <test-method status="PASS" signature="username1()[pri:0, instance:mavenkrishna.krishnatest.FirstMaven@3b084709]" name="username1" duration-ms="3586" started-at="2018-09-07T04:49:26Z" finished-at="2018-09-07T04:49:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- username1 -->
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:mavenkrishna.krishnatest.FirstMaven@3b084709]" name="closeapp" is-config="true" duration-ms="3264" started-at="2018-09-07T04:49:30Z" finished-at="2018-09-07T04:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- mavenkrishna.krishnatest.FirstMaven -->
+      <class name="mavenkrishna.krishnatest.SecondMaven">
+        <test-method status="PASS" signature="openfacebook()[pri:0, instance:mavenkrishna.krishnatest.SecondMaven@3224f60b]" name="openfacebook" is-config="true" duration-ms="14178" started-at="2018-09-07T04:49:33Z" finished-at="2018-09-07T04:49:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openfacebook -->
+        <test-method status="PASS" signature="signin()[pri:0, instance:mavenkrishna.krishnatest.SecondMaven@3224f60b]" name="signin" duration-ms="3752" started-at="2018-09-07T04:49:47Z" finished-at="2018-09-07T04:49:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="closefacebook()[pri:0, instance:mavenkrishna.krishnatest.SecondMaven@3224f60b]" name="closefacebook" is-config="true" duration-ms="4328" started-at="2018-09-07T04:49:51Z" finished-at="2018-09-07T04:49:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closefacebook -->
+        <test-method status="PASS" signature="openfacebook()[pri:0, instance:mavenkrishna.krishnatest.SecondMaven@3224f60b]" name="openfacebook" is-config="true" duration-ms="7759" started-at="2018-09-07T04:49:55Z" finished-at="2018-09-07T04:50:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openfacebook -->
+        <test-method status="PASS" signature="title()[pri:0, instance:mavenkrishna.krishnatest.SecondMaven@3224f60b]" name="title" duration-ms="7" started-at="2018-09-07T04:50:03Z" finished-at="2018-09-07T04:50:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method status="PASS" signature="closefacebook()[pri:0, instance:mavenkrishna.krishnatest.SecondMaven@3224f60b]" name="closefacebook" is-config="true" duration-ms="4102" started-at="2018-09-07T04:50:03Z" finished-at="2018-09-07T04:50:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closefacebook -->
+      </class> <!-- mavenkrishna.krishnatest.SecondMaven -->
+    </test> <!-- Groups -->
+  </suite> <!-- KishorTesting -->
+</testng-results>

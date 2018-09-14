@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="KishorTesting">
+
+	         
+ <listeners>
+	<listener class-name="mavenkrishna.krishnatest.ExtentReport"></listener>
+</listeners>
+
+<test name="Groups">
+
+ <classes>
+
+		  <class name="mavenkrishna.krishnatest.FirstMaven"></class>
+		  
+		   <class name="mavenkrishna.krishnatest.SecondMaven"></class>
+	  
+	       </classes>	
+	      </test>
+           </suite>
